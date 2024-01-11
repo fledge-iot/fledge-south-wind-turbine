@@ -229,7 +229,7 @@ def plugin_info():
     """
     return {
         'name': 'wind_turbine Poll Plugin',
-        'version': '2.2.0',
+        'version': '2.3.0',
         'mode': 'poll',
         'type': 'south',
         'interface': '1.0',
